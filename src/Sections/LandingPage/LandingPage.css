@@ -1,0 +1,62 @@
+.LandingPage {
+  background: #2b2929;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.header .logo {
+  background-color: #b84292;
+  color: white;
+  padding: 1em 2em;
+}
+
+.Hero-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100vh;
+}
+
+.Hero-container .Text {
+  margin: 3em;
+  border: 2px solid pink;
+}
+
+.Hero-container .Text h1 {
+  color: #b84292;
+}
+
+.Hero-container .Text p {
+  color: #ccc;
+}
+
+.Hero-container .Text .btn {
+  padding: 1em 2em;
+  background: #fff;
+  color: black;
+}
+
+.Hero-container .ImageContainer {
+  width: 60%;
+}
+
+.Hero-container .ImageContainer img {
+  width: 100%;
+}
+/*# sourceMappingURL=LandingPage.css.map */
