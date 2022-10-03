@@ -14,13 +14,23 @@
         color: white;
         padding: 1em 2em;
     }
+    .navlinks{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 40%;
+        list-style: none;
+        .link{
+            text-decoration: none;
+        }
+    }
 }
 
 .Hero-container{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 100vh;
+    //height: 100vh;
     .Text{
         margin: 3em;
         border: 2px solid pink;
