@@ -1,6 +1,6 @@
 .LandingPage{
-    background: rgb(43, 41, 41);
-    height: 100vh;
+    background: rgb(43, 35, 41);
+    //height: 100vh;
     overflow: hidden;
 }
 
@@ -30,10 +30,11 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    //height: 100vh;
+    height: 100%;
     .Text{
         margin: 3em;
         border: 2px solid pink;
+        padding: 2em;
         h1{
             color: rgb(184, 66, 146);
         }
