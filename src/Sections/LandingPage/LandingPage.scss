@@ -1,14 +1,16 @@
 .LandingPage{
     background: rgb(43, 35, 41);
-    //height: 100vh;
+    height: 100vh;
     overflow: hidden;
 }
 
 
 .header{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    position: absolute;
+    width: 100%;
     .logo{
         background-color: rgb(184, 66, 146);
         color: white;
@@ -20,8 +22,12 @@
         align-items: center;
         width: 40%;
         list-style: none;
+        
         .link{
             text-decoration: none;
+            color: #ccc;
+            font-size: 20px;
+            font-weight: bolder;
         }
     }
 }
