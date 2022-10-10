@@ -1,7 +1,8 @@
 .LandingPage{
-    background: rgb(43, 35, 41);
+    background: rgb(35, 35, 35);
     height: 100vh;
     overflow: hidden;
+
 }
 
 
@@ -39,8 +40,10 @@
     height: 100%;
     .Text{
         margin: 3em;
-        border: 2px solid pink;
+        //border: 2px solid pink;
         padding: 2em;
+        font-size: 20px;
+        line-height: 3;
         h1{
             color: rgb(184, 66, 146);
         }
@@ -50,6 +53,7 @@
         .btn{
             padding: 1em 2em;
             background: #fff;
+            border: none;
             color: black;
         }
     }
