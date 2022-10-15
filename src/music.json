@@ -1,10 +1,12 @@
 [
     {
+        "image" : "/image/linkinpark.jpeg",
         "title": "In The End",
         "artist":"Linkin Park",
         "genre": "Rock"
     },
-    {
+    {   
+        "image": "/image/fujikaze.jpeg",
         "title": "Karou",
         "artist":"Fujii Kaze",
         "genre": "RnB"
