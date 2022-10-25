@@ -3,13 +3,15 @@
         "image" : "/image/linkinpark.jpeg",
         "title": "In The End",
         "artist":"Linkin Park",
-        "genre": "Rock"
+        "genre": "Rock",
+        "video": "https://www.youtube.com/watch?v=Ud0fBhTW7YM"
     },
     {   
         "image": "/image/fujikaze.jpeg",
         "title": "Karou",
         "artist":"Fujii Kaze",
-        "genre": "RnB"
+        "genre": "RnB",
+        "video": "https://www.youtube.com/watch?v=Ud0fBhTW7YM"
     },
     {
         "image": "https://hips.hearstapps.com/hmg-prod/images/esq040122wil-001-1651088387.jpg",
