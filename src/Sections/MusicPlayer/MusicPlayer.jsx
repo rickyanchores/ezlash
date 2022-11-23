@@ -4,7 +4,9 @@ const MusicPlayer = () => {
   return (
     <div className='MusicPlayer'>
         <h1>MusicPlayer</h1>
-        <img src="" alt="" />
+        <div className="container">
+          <h1>My Top List</h1>
+        </div>
     </div>
   )
 }

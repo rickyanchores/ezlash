@@ -2,4 +2,15 @@
     background: teal;
     color: whitesmoke;
     height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .container{
+        padding: 5em;
+        background: #333;
+        color: coral;
+        border-radius: 12px;
+        width: 80%;
+        margin: auto;
+    }
 }
